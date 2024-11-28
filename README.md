@@ -4,7 +4,7 @@ Certainly! Below is a README template you can use for your GitHub repository. Yo
 
 # Maze of Time (NCurses-based)
 
-Welcome to the Maze Game! This is a terminal-based maze game built using the NCurses library, where players must navigate through a randomly generated maze and escape on reaching the goal('X'). The game provides difficulty levels and a visually rich experience with the use of colors and maze rendering. It also includes a menu system with options for difficulty selection and a game over screen.
+Welcome to the Maze of Time! This is a terminal-based maze game built using the NCurses library, where players must navigate through a randomly generated maze and escape on reaching the goal('X'). The game provides difficulty levels and a visually rich experience with the use of colors and maze rendering. It also includes a menu system with options for difficulty selection and a game over screen.
 
 ## Table of Contents
 
