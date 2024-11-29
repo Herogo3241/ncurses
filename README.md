@@ -2,7 +2,7 @@
 
 # Maze of Time (NCurses-based)
 
-Welcome to the Maze of Time! This is a terminal-based maze game built using the NCurses library, where players must navigate through a randomly generated maze and escape on reaching the goal('X'). The game provides difficulty levels and a visually rich experience with the use of colors and maze rendering. It also includes a menu system with options for difficulty selection and a game over screen.
+Welcome to the Maze of Time! This is a terminal-based maze game built using the NCurses library, where players must navigate through a randomly generated maze and escape on reaching the goal(`X`). The game provides difficulty levels and a visually rich experience with the use of colors and maze rendering. It also includes a menu system with options for difficulty selection and a game over screen.
 
 ## Table of Contents
 
@@ -84,5 +84,5 @@ The maze is generated randomly using a depth-first search (DFS) algorithm. Hereâ
 
 3. **Rendering**: Once the maze is generated, the player is placed at the start position and the maze is rendered on the terminal screen. The player can move through the maze using the wasd keys, and the game checks for valid movements.
 
-4. **Winning Condition**: The player must reach the goal ('X'). The game displays the time taken to escape the maze.
+4. **Winning Condition**: The player must reach the goal (`X`). The game displays the time taken to escape the maze.
 
