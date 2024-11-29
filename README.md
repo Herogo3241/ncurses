@@ -6,10 +6,13 @@ Welcome to the Maze of Time! This is a terminal-based maze game built using the 
 
 ## Table of Contents
 
-1. [Demo Video](#demo-video)
-2. [Technologies Used](#technologies-used)
-3. [Installation Guide](#installation-guide)
-4. [How It Works: Random Maze Generation](#how-it-works-random-maze-generation)
+1. [Demo Video](#demo-video)  
+2. [Technologies Used](#technologies-used)  
+3. [Installation Guide](#installation-guide)  
+   - [For Linux Users](#for-linux-users)  
+   - [For Windows Users](#for-windows-users)  
+4. [How It Works: Random Maze Generation](#how-it-works-random-maze-generation)  
+
 
 
 ## Demo Video
@@ -43,7 +46,7 @@ Make sure you have the following installed:
 
 ### Steps to Install
 ---
-#### For Linux Users:
+#### For Linux Users {#for-linux-users}
 
 1. **Clone the Repository**  
    Open a terminal and run:
@@ -79,7 +82,7 @@ Make sure you have the following installed:
 
 ---
 
-#### For Windows Users:
+#### For Windows Users {#for-windows-users}
 
 1. **Download the Executable**  
    Navigate to the [Releases](https://github.com/Herogo3241/terminal-maze/releases) section of the repository.
