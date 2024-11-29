@@ -1,5 +1,3 @@
-Certainly! Below is a README template you can use for your GitHub repository. You can customize it further if necessary.
-
 ---
 
 # Maze of Time (NCurses-based)
