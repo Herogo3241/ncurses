@@ -30,45 +30,66 @@ This project uses the following technologies:
 
 To set up the Maze Game on your local machine, follow these steps:
 
-### Prerequisites
+### Prerequisites (For linux users)
 
 Make sure you have the following installed:
 
 - A C compiler (e.g., GCC)
 - NCurses library (on most Linux distributions, it can be installed using `sudo apt-get install libncurses5-dev` or similar package manager commands)
 
+
+
+
+
 ### Steps to Install
+---
+#### For Linux Users:
 
-1. **Clone the repository**:
-
+1. **Clone the Repository**  
+   Open a terminal and run:
    ```bash
-   https://github.com/Herogo3241/terminal-maze.git
+   git clone https://github.com/Herogo3241/terminal-maze.git
    cd terminal-maze
    ```
 
-2. **Install dependencies** (if necessary, ensure that you have the NCurses library):
-
+2. **Install Dependencies**  
+   Ensure you have the **NCurses** library installed. Run:
    ```bash
    sudo apt-get install libncurses5-dev
    ```
 
-3. **Compile and run the code** :
-
+3. **Compile and Run the Code**  
+   Make the `run.sh` script executable and run it:
    ```bash
    chmod u+x run.sh
    ./run.sh
    ```
 
-4. **Installing the program**:
+4. **Install the Program**  
+   To install the program system-wide, execute:
    ```bash
    chmod u+x install.sh
    ./install.sh
    ```
-   Now run just call 'mazeoftime' to run it from anywhere
+   After installation, you can start the game from any directory by simply typing:
+   ```bash
+   mazeoftime
+   ```
+   This will launch the game in your terminal.
+
+---
+
+#### For Windows Users:
+
+1. **Download the Executable**  
+   Navigate to the [Releases](https://github.com/Herogo3241/terminal-maze/releases) section of the repository.
+
+2. **Run the Game**  
+   Download the `.exe` file and double-click it to play!
+
+---
 
 
-
-   This will start the game in your terminal.
 
 ## How It Works: Random Maze Generation
 
