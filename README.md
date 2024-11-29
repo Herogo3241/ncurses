@@ -46,7 +46,7 @@ Make sure you have the following installed:
 
 ### Steps to Install
 ---
-#### For Linux Users {#for-linux-users}
+#### For Linux Users
 
 1. **Clone the Repository**  
    Open a terminal and run:
@@ -82,7 +82,7 @@ Make sure you have the following installed:
 
 ---
 
-#### For Windows Users {#for-windows-users}
+#### For Windows Users
 
 1. **Download the Executable**  
    Navigate to the [Releases](https://github.com/Herogo3241/terminal-maze/releases) section of the repository.
