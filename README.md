@@ -61,6 +61,13 @@ Make sure you have the following installed:
    ./run.sh
    ```
 
+4. ** Installing the program**:
+   ```bash
+   chmod u+x install.sh
+   ./run.sh
+   ```
+   Now run just call 'mazeoftime' to run it from anywhere
+
 
 
    This will start the game in your terminal.
