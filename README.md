@@ -64,7 +64,7 @@ Make sure you have the following installed:
 4. **Installing the program**:
    ```bash
    chmod u+x install.sh
-   ./run.sh
+   ./install.sh
    ```
    Now run just call 'mazeoftime' to run it from anywhere
 
