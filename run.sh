@@ -6,7 +6,7 @@ OUTPUT_FILE="main"      # Output executable name
 
 # Step 1: Compile the program
 echo "Compiling $SOURCE_FILE..."
-gcc "$SOURCE_FILE" -lncurses -lfftw3 -lm -o "$OUTPUT_FILE"
+gcc "$SOURCE_FILE" -lncurses -lm -o "$OUTPUT_FILE"
 
 # Check if compilation succeeded
 if [ $? -eq 0 ]; then
