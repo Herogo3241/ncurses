@@ -88,7 +88,7 @@ Make sure you have the following installed:
    Navigate to the [Releases](https://github.com/Herogo3241/terminal-maze/releases) section of the repository.
 
 2. **Run the Game**  
-   Download the `.exe` file and double-click it to play!
+   Run the `.exe` file from terminal
 
 ---
 
